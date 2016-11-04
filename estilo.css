@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04-nov-2016, 19:42:48
+    Author     : tamara
+*/
+#formu{
+    width:300px;
+    height:200px;
+    padding:20px;
+    margin: 0px auto;
+    border-radius: 5px;
+    border:solid 1px #DEDEDE;
+    color:#03C;
+    background: -moz-linear-gradient(#F0F0F0 0%,#F9F9F9 100%);
+}
+#agenda{
+    width:300px;
+    height:auto;
+    padding:20px;
+    margin: 0px auto;
+    border-radius: 5px;
+    border:solid 1px #DEDEDE;
+    color:#03C;
+    background: -moz-linear-gradient(#F0F0F0 0%,#F9F9F9 100%);
+}
+#agenda h3{
+    color: green;
+}
+#error{
+    width:300px;
+    height:20px;
+    padding:20px;
+    margin: 0px auto;
+    border-radius: 5px;
+    border:solid 1px #DEDEDE;
+    color:crimson;
+    background: -moz-linear-gradient(#FFC0C0 0%,#F9F0F0 100%);
+    
+}
