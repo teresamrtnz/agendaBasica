@@ -1,5 +1,6 @@
 <?php
 if (isset($_POST['enviar'])) {
+    
     //Recogemos los datos
     $nombre = filter_input(INPUT_POST, 'nombre');
     $tel = filter_input(INPUT_POST, 'tel');
